@@ -3,7 +3,7 @@
 
 💡About Me
 🎓 Bachelor of Technology<br>
-💻  Ilove working with Python, Data Structures, OOP, SQL, and Oracle SQL, focused on developing efficient applications and writing optimized code. I enjoy solving programming problems, building software solutions, and continuously learning new technologies to enhance my technical expertise.<br>
+💻  Ilove working with Python, Data Structures, Oops, SQL, and Oracle SQL, focused on developing efficient applications and writing optimized code. I enjoy solving programming problems, building software solutions, and continuously learning new technologies to enhance my technical expertise.<br>
 🌱 AI-Powered SmartDocAI chatbot using Python<br>
 
 Tools&Technologies
