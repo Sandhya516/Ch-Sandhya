@@ -1,9 +1,9 @@
 ## 👋 Hello, i'm  Chodapaneedi Sandhya Rani Bhagya Sri!
-🎯 A passionate Data Analyst with strong skills in Python and SQL, focused on transforming raw data into meaningful insights and actionable solutions. I enjoy working with data, building analytical solutions, creating visual reports, and continuously learning new technologies to solve real-world business problems efficiently.
+🎯 A passionate in Python, Data Structures,Oops, SQL,Oracle SQL,PBI Interested in software development, database management, and problem-solving. Always eager to learn new technologies and build real-world applications.
 
 💡About Me
 🎓 Bachelor of Technology<br>
-💻 I love working with Python, SQL, PBI, DAX, Data Analysis, and Visualization to build efficient analytical solutions and derive meaningful insights from data.<br>
+💻  Ilove working with Python, Data Structures, OOP, SQL, and Oracle SQL, focused on developing efficient applications and writing optimized code. I enjoy solving programming problems, building software solutions, and continuously learning new technologies to enhance my technical expertise.<br>
 🌱 AI-Powered SmartDocAI chatbot using Python<br>
 
 Tools&Technologies
@@ -30,6 +30,7 @@ Tools&Technologies
 * 🔹 **Portfolio Website** – Showcasing skills, experience, and projects
   
 * 🔹 **SmartDocAI** – AI Powered smartdocai chatbot.
+* 🔹**FoodOrdering & Delivery Management System (Oracle SQL)** – efficiently managed customers, restaurants, orders, payments, and deliveries.
 > More coming soon! Check pinned repos or visit the [Projects](#) section above ⬆️
 
 ---
