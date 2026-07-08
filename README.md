@@ -27,7 +27,7 @@ Tools&Technologies
 ![Jupiter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ## 📂 Projects
 ---
-* 🔹 **Portfolio Website** – Showcasing skills, experience, and projects
+* 🔹 **Portfolio Website** – Showcasing skills, experience, projects
   
 * 🔹 **SmartDocAI** – AI Powered smartdocai chatbot.
 * 🔹**FoodOrdering & Delivery Management System (Oracle SQL)** – efficiently managed customers, restaurants, orders, payments, and deliveries.
